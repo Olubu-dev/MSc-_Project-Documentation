@@ -6,3 +6,4 @@
 
 ## Data Sources: The dataset named 'Loan Default' was sourced from Kaggle, an online community platform open to the public. The dataset contains 148670 rows and 34 features.
 
+## Tools Used: 
