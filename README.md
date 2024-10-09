@@ -1,2 +1,3 @@
 # MSc-_Project-Documentation
-This is where I documented my Masters Project at Teesside University
+## Project Title: Examining Discrimination in the Prediction of Loan Default: An Experimental Approach
+
