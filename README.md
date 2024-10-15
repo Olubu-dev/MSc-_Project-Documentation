@@ -6,8 +6,14 @@
 
 ## Data Sources: The dataset named 'Loan Default', a csv file was sourced from Kaggle, an online community platform open to the public. The dataset contains 148670 rows and 34 features.
 
-### Tools Used: 
-Jupyter Notebook: 
-1 Data Cleaning
-2 Data Analysis
+### Tools Used
+---
+-Jupyter Notebook 
+1. Data Cleaning
+2. Data Analysis
+3. For Visualization
+
+-Github for portfolio building
+
+
 
