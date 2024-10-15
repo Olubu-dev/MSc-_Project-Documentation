@@ -26,3 +26,13 @@
   7. Data Spliting
   8. Model Development
 
+### Exploratory Data Analysis
+---
+-Univariate Analysis
+1. Box plot
+2. Histogram
+3. Bar chart
+
+-Bivariate Analysis
+
+
