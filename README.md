@@ -15,5 +15,14 @@
 
 -Github for portfolio building
 
-
+### Data Cleaning and Preparation
+- In the initial phase of the data cleaning and preparation, we performed the following steps;
+- 1. Data loading and Inspection
+  2. Handling of Missing variables
+  3. Feature Engineering
+  4. Label Encoding
+  5. Feature Selection
+  6. Data Standardization
+  7. Data Spliting
+  8. Model Development
 
