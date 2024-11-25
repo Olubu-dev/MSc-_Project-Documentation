@@ -12,12 +12,13 @@
 1. Data Cleaning
 2. Data Analysis
 3. For Visualization
+4. Overleaf  
 
 -Github for portfolio building
 
 ### Data Cleaning and Preparation
 - In the initial phase of the data cleaning and preparation, we performed the following steps;
-- 1. Data loading and Inspection
+  1. Data loading and Inspection
   2. Handling of Missing variables
   3. Feature Engineering
   4. Label Encoding
@@ -37,5 +38,17 @@
 
 ### Data Analysis
 ---
+For the purpose of this analysis, five algorithms were used:: 
+- Random Forest
+- Decision Trees
+- Logistic Regression
+- XGBoost
+- Gaussian Naive Bayes
+The analysis was conducted both before and after undersampling to address class imbalance in the dataset. Both traditional algorithms and fairness-aware algorithms were applied, and the results were compared to evaluate the impact of fairness considerations on model performance.
+
+### Data Visualization
+---
+- This shows the distribution of the target variable before and after oversampling
+  
 
 
