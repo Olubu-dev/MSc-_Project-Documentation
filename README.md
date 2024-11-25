@@ -53,4 +53,4 @@ https://github.com/Olubu-dev/MSc-_Project-Documentation/blob/main/Target%20data.
 https://github.com/Olubu-dev/MSc-_Project-Documentation/blob/main/After%20Undersampling.PNG
 
 - Performance metrics before and after Undersampling
-  
+  https://github.com/Olubu-dev/MSc-_Project-Documentation/blob/main/Metrics%20before%20Undersampling.JPG
