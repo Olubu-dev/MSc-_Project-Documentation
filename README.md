@@ -48,6 +48,6 @@ The analysis was conducted both before and after undersampling to address class 
 
 ### Data Visualization
 ---
-  !https://github.com/Olubu-dev/MSc-_Project-Documentation/blob/main/Target%20data.PNG
-  !https://github.com/Olubu-dev/MSc-_Project-Documentation/blob/main/After%20Undersampling.PNG
+  
 
+https://github.com/Olubu-dev/MSc-_Project-Documentation/blob/main/After%20Undersampling.PNG
